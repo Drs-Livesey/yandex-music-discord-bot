@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "muxdi"
+version = "0.1.0"
+description = "Yandex music bot for discord"
+authors = ["Maria Karaseva <maria-karasevaa@yandex.ru>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+yandex-music = "2.0.1"
+discord = "2.0.0"
